@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "ERA", "ERA\ERA.pyproj", "{962D09FD-7737-4BB4-B0D8-4B11F9D03B89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{962D09FD-7737-4BB4-B0D8-4B11F9D03B89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962D09FD-7737-4BB4-B0D8-4B11F9D03B89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C556F66-116F-4A0F-8D47-14DE7F54BA00}
+	EndGlobalSection
+EndGlobal
